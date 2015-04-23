@@ -1,0 +1,6 @@
+MOTORE DI RICERCA
+
+Il funzionamento del motore di ricerca prevede la creazione di documenti( eventualmente presi dall’indicizzazione di pagine web tramite un ciclo for ).
+Si aggiungono i documenti all’indice di lucene.
+Si parsa una query di ricerca .
+Si fa stampare il risultato .
